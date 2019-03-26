@@ -1,0 +1,14 @@
+# ignore below folders and files
+node_modules/
+.idea/
+
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+Desktop.ini
+
+.idea/
+*.iml
+*.pyc
+package-lock.json

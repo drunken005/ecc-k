@@ -1,0 +1,25 @@
+{
+  "name": "ecc-k",
+  "version": "1.0.1",
+  "description": "Serialize the transaction after the eos signature",
+  "main": "lib/util.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drunken005/ecc-k.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drunken005/ecc-k/issues"
+  },
+  "homepage": "https://github.com/drunken005/ecc-k#readme",
+  "dependencies": {
+    "crypto-browserify": "^3.12.0"
+  }
+}
